@@ -13,7 +13,8 @@ This was for a school project to see if it was possible to make it work.
 - Written in C and C#
 
 ## Requirements
-- Windows 
+- Windows
+- Windows SDK, Windows Driver Kit & Spectre Libraries
 - Visual Studio 2022
 - Some way to manual map the driver, I use [kdmapper](https://github.com/TheCruZ/kdmapper)
 
